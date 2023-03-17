@@ -1,0 +1,33 @@
+@import url("../node_modules/bootstrap/dist/css/bootstrap.min.css");
+@import url("https://fonts.googleapis.com/css2?family=Poiret+One&family=Poppins:wght@400;500;700&display=swap");
+
+html,
+body {
+  height: 100%;
+}
+body {
+  /* font-family: 'Poiret One', cursive; */
+  font-family: "Poppins", sans-serif;
+  background-color: #dde7f9;
+}
+
+#root {
+  height: 100%;
+}
+.title {
+  font-family: "Poiret One", cursive;
+}
+
+.bg-primary {
+  background-color: #131823 !important;
+}
+.text-primary {
+  color: #131823 !important;
+}
+.btn-primary {
+  background-color: #131823 !important;
+}
+.task-form {
+  width: 100%;
+  max-width: 100%;
+}

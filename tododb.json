@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "name": "tarun",
+      "email": "tarun@gmail.com",
+      "password": "admin",
+      "id": 1
+    },
+    {
+      "name": "Tarun kumar",
+      "email": "tarunkchandra@gmail.com",
+      "password": "1234",
+      "id": 2
+    }
+  ],
+  "tasks": [
+    {
+      "title": "jubair",
+      "userId": 1,
+      "createdOn": "2022-12-16T04:57:48.921Z",
+      "description": "how are you",
+      "duedate": "2022-12-30T10:27",
+      "id": 4
+    },
+    {
+      "title": "Gratitude Program",
+      "userId": 1,
+      "createdOn": "2022-12-17T08:01:07.239Z",
+      "description": "this program to rebuild your subconscious Mind",
+      "duedate": "2022-12-18T13:31",
+      "id": 5
+    },
+    {
+      "title": "Web 3.0 Program",
+      "userId": 1,
+      "createdOn": "2022-12-17T08:02:45.078Z",
+      "description": "Future is web 3.0 ",
+      "duedate": "2022-12-20T13:31",
+      "id": 6
+    },
+    {
+      "title": "Blockchain Program",
+      "userId": 1,
+      "createdOn": "2022-12-20T15:50:55.680Z",
+      "description": "How to secure our data Using Blockchain Technology ,  This is future of Web 3\n",
+      "duedate": "2022-12-15T13:31",
+      "id": 7
+    },
+    {
+      "title": "Blockchain",
+      "description": "Learn in Web3  Course",
+      "duedate": "2023-03-09T12:41",
+      "userId": 2,
+      "createdOn": "2023-02-24T07:11:57.629Z",
+      "id": 8
+    },
+    {
+      "title": "Blockchain",
+      "description": "Learn in Web3  Course",
+      "duedate": "2023-03-09T12:41",
+      "userId": 2,
+      "createdOn": "2023-02-24T07:11:57.629Z",
+      "id": 9
+    },
+    {
+      "title": "Blockchain",
+      "description": "Learn in Web3  Course",
+      "duedate": "2023-03-09T12:41",
+      "userId": 2,
+      "createdOn": "2023-02-24T07:11:57.629Z",
+      "id": 10
+    }
+  ]
+}
